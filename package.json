@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-encoder",
+  "version": "1.0.0",
+  "description": "Basic message encoder/decoder using Caesar, Symbol and Reverse strategies",
+  "main": "encoder.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naipes0787/nodejs-encoder.git"
+  },
+  "keywords": [
+    "encoder"
+  ],
+  "author": "Leandro Costa <leandrodavidcosta@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naipes0787/nodejs-encoder/issues"
+  },
+  "homepage": "https://github.com/naipes0787/nodejs-encoder#readme"
+}

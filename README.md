@@ -1,2 +1,3 @@
 # nodejs-encoder
-Simple encoder/decoder message using basic Node.js
+
+Simple message encoder/decoder using basic Node.js
